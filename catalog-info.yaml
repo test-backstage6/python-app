@@ -4,7 +4,8 @@ metadata:
   name: python-app
   description: An example of a python application.
   annotations:
-    github.com/project-slug: pszustakowski/python-app
+    github.com/project-slug: test-backstage6/python-app
+    backstage.io/techdocs-ref: dir:.
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: service
